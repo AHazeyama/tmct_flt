@@ -6,8 +6,6 @@
   <img src="./assets/Title_light.png">
 -->
 
-  <img src="./assets/Title_light.png">  
-
 # Clock Timer & Counter [tmct_flt] - Rehabilitation Timer
 <p align="left">
   <img src="./assets/tmct_flt_v1.2.0.png" width="240">
