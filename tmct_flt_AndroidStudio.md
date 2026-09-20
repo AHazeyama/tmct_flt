@@ -5,14 +5,15 @@
 <!--
 <img src="./assets/Tutorial_light.png">  
 -->
-
+<!--
 > [!NOTE]  
 > 現在、編集途中です。  
 > リンク先内容等、不備がありますが、ご容赦ください。  
 > 随時更新して行く予定です。  
+-->
   
 # Overview  
-#### 目的 : OS不問のMobileアプリケーション開発、<br>　　　　リハビリテーション(姿勢保持動作)支援アプリケーション <br> 内容 : **Android** / **iOS** 共用開発環境を構築し、アプリケーション開発を行う
+#### 目的 : Android / iOS 共用環境での Mobileアプリケーション開発、<br>　　　　リハビリテーション / フィットネス 支援アプリケーション <br> 内容 : **Android** / **iOS** 共用開発環境を構築し、アプリケーション開発を行う。 <br>　　　　搭載機能を厳選し、操作の簡易性とリソース消費の最適化（低メモリ・コンパクトなアプリ容量）を重視した構成としました。
 
 > [!NOTE]
 > 本書ではWindows 11上でAndroidアプリケーションを開発する手順を記載します。
@@ -20,11 +21,17 @@
 |Item|Content|  
 |:--|:--|  
 |OS|<img src="./assets/env/M_OS_Win11.png" height="13">|  
-|言語|<img src="./assets/env/M_LANG_Dart.png" height="20">|  
+|Language|<img src="./assets/env/M_LANG_Dart.png" height="20">|  
 |Framework|<img src="./assets/env/M_FW_Flutter.png" height="26">|  
 |IDE|<img src="./assets/env/M_IDE_AndroidStudo.png" height="28">|  
-|Editor|<img src="./assets/env/M_EDT_Vim.png" height="14">　**/**　<img src="./assets/env/M_EDT_VSCode.png" height="14">|  
-|検証機材|<img src="./assets/env/M_SP_XPERIA10IV.png" height="12">|  
+|Editor|<img src="./assets/env/M_EDT_Vim-icon.png" height="28"><img src="./assets/env/M_slash.png" height="28"><img src="./assets/env/M_EDT_VSCode-banner.png" height="28">|
+|Verification Equipment|<img src="./assets/env/M_SP_XPERIA10IV.png" height="16">|  
+
+> [!caution]
+> Trademarks: Company names, product names, and logos used in documents related to this project are trademarks or registered trademarks of their respective owners. They are cited solely for the purpose of describing the technologies used.
+> 
+
+
   
 # リハビリテーション用タイマー&カウンター[tmct]開発手順  
 > [!TIP]
@@ -45,7 +52,7 @@
 　4. Androidライセンス承認  
 ### Emulator起動														<!-- 01-05 -->  
 
-[🔗開発ツールインストール手順](./docs/01_Environment.md)  
+[<img src="./assets/env/M_tech-documents.png" height="24"> 開発ツールインストール手順](./docs/01_Environment.md)  
   
 ## Mobileアプリケーション作成											<!-- 02 -->  
 　リハビリテーション用カウントダウンタイマー&カウンター[tmct_flt]を作成します。  
@@ -80,7 +87,8 @@
 ### 検証																<!-- 03-02 -->
 　検証作業  
 
-[🔗実機検証手順](./docs//03_Verification.md)  
+[<img src="./assets/env/M_tech-documents.png" height="24"> 実機検証手順](./docs//03_Verification.md)  
+
 
 ## Appendix : 開発環境初期化												<!-- APP -->  
 　インストール済みの **Flutter** と **Android Studio**  及びその環境、生成物の削除を行います。  
@@ -100,4 +108,4 @@
 　1. 削除対象  
 ### 完了確認															<!-- APP-04 -->  
   
-[🔗開発環境初期化手順](./docs/APP_Initialize.md)  
+[<img src="./assets/env/M_tech-documents.png" height="24"> 開発環境初期化手順](./docs/APP_Initialize.md)  

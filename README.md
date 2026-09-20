@@ -79,69 +79,20 @@
 - 残り10からの表示色変化によるラストスパートの視覚的サポート
 
 ## Why Flutter
-　本ツールはSourceCodeを Android / iOS 共通とするためにFlutterを使用しています。
-- Android / iOS 共通UI
-> [!CAUTION]
+　SourceCodeを Android / iOS 共通とするためにFlutterを使用しています。
+
+> [!note]
 > Xpedia10 IV 及び AndroidStudio Emulator(Pixel7) にて動作検証を行っています。  
-> iOS用コードは同じプロジェクト内に保持されますが、iOSアプリのビルドと実機確認にはmacOSとXcodeが必要です。  
-> Mac版はPCを用意できた時点で、プロジェクトを検証する予定です (人身御供になっていただけると幸いです)。  
-
-## Build (for Windows) 
-　Flutter SDKとAndroid Studioをセットアップした後、PowerShellで実行します。  
-> [!NOTE]  
->  <⏎> : Press the Enter key.  
-
-　<img src="./assets/env/M_SHELL_PWSH.png" height="12">  
-```pwsh
-　flutter doctor <⏎>  
-　　　: # Execution Result
-　flutter create --platforms=android,ios tmct_flt <⏎>  
-　　　: # Execution Result
-　tree /f app_dir <⏎>  
-　app_dir  
-　　│    pubspec.yaml  
-　　└─ lib  
-　　     main.dart  
-``` 
-　その後、プロジェクトのディレクトリで実行します。  
-
-　<img src="./assets/env/M_SHELL_PWSH.png" height="12">  
-```pwsh
-　flutter pub get <⏎>  
-　　　: # Execution Result
-　flutter run <⏎>  
-　　　: # Execution Result
-``` 
-　接続中のAndroid端末を指定する場合：  
-　<img src="./assets/env/M_SHELL_PWSH.png" height="12">  
-```pwsh
-　flutter devices <⏎>  
-　　　: # Execution Result
-　flutter run -d <device-id> <⏎>  
-　　　: # Execution Result
-``` 
-## Android APKの作成
-　動作確認用：  
-　<img src="./assets/env/M_SHELL_PWSH.png" height="12">  
-```pwsh
-　flutter build apk --debug <⏎>  
-```  
-　配布用：  
-　<img src="./assets/env/M_SHELL_PWSH.png" height="12">  
-```pwsh  
-　flutter build apk --release <⏎>  
-```   
-　生成先：   
-　　🗁 build/app/outputs/flutter-apk/app-release.apk  
-　生成した **app-release.apk** をアプリケーション名に変更して配布  
+>
+> <img src="./assets/env/M_caution.png" height="14"> Notice  
+> iOSアプリのビルドと検証にはmacOSとXcodeが必要なため、実施できておりません。  
+> 今後、機材を用意できた時点でiOS側の検証を行う予定です。  <img src="./assets/env/M_execuse_jonesy08.png" height="72" align="top">
 
 ## Download
 　🔗 https://github.com/AHazeyama/public/releases/latest  
 
 ## Development Tutorial  
 　🔗[tmct_flt_AndroidStudio](./tmct_flt_AndroidStudio.md)  
-> [!CAUTION]
-> 現在作成中につき、内容は保証できません。 
 
 ## License
 　TBD
