@@ -10,15 +10,8 @@
 　**SDK(Flutter)** 及び **IDE(Android Studio)** のインストールと環境設定を行います。  
 
 > [!NOTE]  
-> 凡例
-> | | | |
-> |:--|:--|:--|
-> |<img src="./assets/env/M_monitor.png" height="14">　デスクトップ|<img src="./assets/env/M_term.png" height="14">　ターミナル|<img src="./assets/env/M_win.png" height="14">　ウィンドウ / ペイン / ダイアログ|
-> <img src="./assets/env/M_dir.png" height="14">　フォルダ / ディレクトリ|<img src="./assets/env/M_file.png" height="14">　ファイル|<img src="./assets/env/M_tech-documents.png" height="20">　参照(資料)|  
-> |<img src="./assets/env/M_write.png" height="14">　編集 / コーディング / 描画|<img src="./assets/env/M_ommit-L.png" height="12"><img src="./assets/env/M_text-M.png" height="12"><img src="./assets/env/M_ommit-R.png" height="12">　省略| **aaa** <img src="./assets/env/M_slash.png" height="12"> **bbb**　選択(**aaa** or **bbb**)
-> |<img src="./assets/env/M_download.png" height="14">　ダウンロード|<img src="./assets/env/M_click.png" height="14">　マウスクリック|<img src="./assets/env/M_next.png" height="14">　次動作|<img src="./assets/env/M_return.png" height="12">：Enter key press|
-> |<img src="./assets/env/M_key.png" height="14">　Key|<img src="./assets/env/M_button.png" height="14">　ボタン|<img src="./assets/env/M_menu.png" height="11">　ウィンドウ / メニュー / フォーム|
-> |<img src="./assets/env/M_text.png" height="14">　テキスト|<img src="./assets/env/M_comment.png" height="12">　コメント|<img src="./assets/env/M_link.png" height="14">　リンク|
+> 凡例  
+> [<img src="./assets/env/M_legend.png" width="200">](./assets/env/M_legend.png)  
 >
 > 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
 >
@@ -27,21 +20,43 @@
 > <img src="./assets/env/M_infoG.png" height="14"> ブラウザを **Darkモード** にして頂けると、見やすくなります。  
 >
 
-## インストール済みツール確認												<!-- 01-01 -->  
-　<img src="./assets/env/M_SHELL_PoewrShell.png" height="12">  
+## インストール済みツール確認							<!-- 01-01 -->  
+
+<details>  
+<summary>
+　<img src="./assets/env/M_copy.png" height="14">
+　<img src="./assets/cmd/M_CMD_001_git-version.png">  
+
+</summary> 
+
 ```pwsh
-　git --version <⏎>  
+git --version
 ```  
-　　<img src="./assets/prtsc/01-01-01_git-version.png">  
+</details>  
+
+　  <img src="./assets/cmd/M_CMD_001_git-version-R.png">  
+
+<details>  
+<summary>
+　<img src="./assets/env/M_copy.png" height="14">
+　<img src="./assets/cmd/M_CMD_002_code-version.png">  
+
+</summary> 
+ 
 ```pwsh
-　code --version <⏎>  
+code --version
 ```  
-　　<img src="./assets/prtsc/01-01-02_code-version.png">  
+
+</details>  
+
+　　<img src="./assets/cmd/M_CMD_002_code-version-R.png">  
+
+
 
 ## Flutter(Framework) & Dart(Language) インストール						<!-- 01-02 -->  
-　　👇ボタンより FlutterSDK バンドルをダウンロード  
-　　[<img src="./assets/env/M_flutter-download.png" height="18" align="top">](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.44.8-stable.zip)  🔗[Install Flutter manually](https://docs.flutter.dev/install/manual)  
-　解凍して任意のフォルダへ保存　　推奨：🗁 C : \Develop\  
+　　<img src="./assets/env/M_here.png" height="18" align="top"> ボタンより **FlutterSDK** バンドルをダウンロード  
+　　[<img src="./assets/env/M_flutter-download.png" height="18" align="top">](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.44.8-stable.zip)　<img src="./assets/env/M_link.png" height="14"> [Install Flutter manually](https://docs.flutter.dev/install/manual)  
+　解凍して任意のフォルダへ保存　　推奨：<img src="./assets/env/M_folder.png" height="14"> C : \Develop\  
 
 ## 環境変数登録															<!-- 01-03 -->  
 ### インストール&Path確認  

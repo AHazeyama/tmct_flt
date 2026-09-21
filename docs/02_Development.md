@@ -10,13 +10,14 @@
 　リハビリテーション用カウントダウンタイマー&カウンター [**tmct_flt**] を作成します。  
 　
 > [!NOTE]  
-> 縮小表示されている画像は⬇️で拡大されます。  
-> 
-> ```pwsh  
-> ※ 記号例  
-> 　🪟:デスクトップ、⬇️:マウスクリック、 […]:ボタン、<…>:Press the Key、⇒:次動作、#…:コメント  
-> 　"…":テキスト、a/b:選択(a or b)、｢…｣:ウィンドウ/メニュー/フォーム、  
-> ```  
+> 凡例  
+> [<img src="./assets/env/M_legend.png" width="480">](./assets/env/M_legend.png)  
+>
+> 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
+>
+> Source code / コマンド は <img src="./assets/env/M_copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でText表示します (表示されたTextの右上にある <img src="./assets/env/M_git-copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でコピー)。  
+>
+> <img src="./assets/env/M_infoG.png" height="14"> ブラウザを **Darkモード** にして頂けると、見やすくなります。  
 
 ## Coding																<!-- 02-01 -->  
 　コーディング過程は省略。  
