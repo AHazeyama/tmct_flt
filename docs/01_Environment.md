@@ -11,7 +11,7 @@
 
 > [!NOTE]  
 > 凡例  
-> [<img src="./assets/env/M_legend.png" width="560">](./assets/env/M_legend.png)  
+> [<img src="./assets/env/M_legend.png" width="480">](./assets/env/M_legend.png)  
 >
 > 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
 >
