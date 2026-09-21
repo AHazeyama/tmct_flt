@@ -1,10 +1,11 @@
-<!--
 <p akugb=:keft>  
 	<img src="./assets/APP_Initialize_titlebar_dark.png#gh-dark-mode-only" alt="banner dark">  
 	<img src="./assets/APP_Initialize_titlebar_light.png#gh-light-mode-only" alt="banner light">  
 </p>  
--->
+
+<!--
 <img src="./assets/APP_Initialize_titlebar_light.png">
+-->
   
 # 開発環境初期化  
 　インストール済みの **Flutter** と **Android Studio**  及びその環境、生成物の削除を行います。  
