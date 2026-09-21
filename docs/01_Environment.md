@@ -18,13 +18,14 @@
 > |<img src="./assets/env/M_write.png" height="14">　編集 / コーディング / 描画|<img src="./assets/env/M_ommit-L.png" height="12"><img src="./assets/env/M_text-M.png" height="12"><img src="./assets/env/M_ommit-R.png" height="12">　省略| **aaa** <img src="./assets/env/M_slash.png" height="12"> **bbb**　選択(**aaa** or **bbb**)
 > |<img src="./assets/env/M_download.png" height="14">　ダウンロード|<img src="./assets/env/M_click.png" height="14">　マウスクリック|<img src="./assets/env/M_next.png" height="14">　次動作|<img src="./assets/env/M_return.png" height="12">：Enter key press|
 > |<img src="./assets/env/M_key.png" height="14">　Key|<img src="./assets/env/M_button.png" height="14">　ボタン|<img src="./assets/env/M_menu.png" height="11">　ウィンドウ / メニュー / フォーム|
-> |<img src="./assets/env/M_text.png" height="14">　テキスト|<img src="./assets/env/M_comment.png" height="12">　コメント|
+> |<img src="./assets/env/M_text.png" height="14">　テキスト|<img src="./assets/env/M_comment.png" height="12">　コメント|<img src="./assets/env/M_link.png" height="14">　リンク|
 >
-> <img src="./assets/env/M_copy.png" height="14">：<img src="./assets/env/M_click.png" height="14"> でText表示 (表示されたTextの右上にある <img src="./assets/env/M_git-copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でコピー)  
+> 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
+>
+> Source code / コマンド は <img src="./assets/env/M_copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でText表示します (表示されたTextの右上にある <img src="./assets/env/M_git-copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でコピー)。  
 >
 > <img src="./assets/env/M_infoG.png" height="14"> ブラウザを **Darkモード** にして頂けると、見やすくなります。  
 >
-> 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
 
 ## インストール済みツール確認												<!-- 01-01 -->  
 　<img src="./assets/env/M_SHELL_PoewrShell.png" height="12">  
