@@ -2,39 +2,39 @@
 	<img src="./assets/Tutorial_dark.png#gh-dark-mode-only" alt="banner dark">  
 	<img src="./assets/Tutorial_light.png#gh-light-mode-only" alt="banner light">  
 </p>  
-<!--
+<!--  
 <img src="./assets/Tutorial_light.png">  
--->
-<!--
+-->  
+<!--  
 > [!NOTE]  
 > 現在、編集途中です。  
 > リンク先内容等、不備がありますが、ご容赦ください。  
 > 随時更新して行く予定です。  
--->
+-->  
   
 # Overview  
-#### 目的 : Android / iOS 共用環境での Mobileアプリケーション開発、<br>　　　　リハビリテーション / フィットネス 支援アプリケーション <br> 内容 : **Android** / **iOS** 共用開発環境を構築し、アプリケーション開発を行う。 <br>　　　　搭載機能を厳選し、操作の簡易性とリソース消費の最適化（低メモリ・コンパクトなアプリ容量）を重視した構成としました。
-
-> [!NOTE]
-> 本書ではWindows 11上でAndroidアプリケーションを開発する手順を記載します。
-
+#### 目的 : Android / iOS 共用環境での Mobileアプリケーション開発、<br>　　　　リハビリテーション / フィットネス 支援アプリケーション <br> 内容 : **Android** / **iOS** 共用開発環境を構築し、アプリケーション開発を行う。 <br>　　　　搭載機能を厳選し、操作の簡易性とリソース消費の最適化（低メモリ・コンパクトなアプリ容量）を重視した構成としています。  
+  
+> [!NOTE]  
+> 本書ではWindows 11上でAndroidアプリケーションを開発する手順を記載します。  
+  
 |Item|Content|  
 |:--|:--|  
 |OS|<img src="./assets/env/M_OS_Win11.png" height="13">|  
 |Language|<img src="./assets/env/M_LANG_Dart.png" height="20">|  
 |Framework|<img src="./assets/env/M_FW_Flutter.png" height="26">|  
 |IDE|<img src="./assets/env/M_IDE_AndroidStudo.png" height="28">|  
-|Editor|<img src="./assets/env/M_EDT_Vim-icon.png" height="28"><img src="./assets/env/M_slash.png" height="28"><img src="./assets/env/M_EDT_VSCode-banner.png" height="28">|
+|Editor|<img src="./assets/env/M_EDT_Vim-icon.png" height="28"><img src="./assets/env/M_slash.png" height="28"><img src="./assets/env/M_EDT_VSCode-banner.png" height="28">|  
 |Verification Equipment|<img src="./assets/env/M_SP_XPERIA10IV.png" height="16">|  
-
-> [!caution]
-> Trademarks: Company names, product names, and logos used in documents related to this project are trademarks or registered trademarks of their respective owners. They are cited solely for the purpose of describing the technologies used.
-> 
-
-
+  
+> [!caution]  
+> Trademarks: Company names, product names, and logos used in documents related to this project are trademarks or registered trademarks of their respective owners. They are cited solely for the purpose of describing the technologies used.  
+>   
+  
+  
   
 # リハビリテーション用タイマー&カウンター[tmct]開発手順  
-> [!TIP]
+> [!TIP]  
 > 既存の開発環境があり、再構築する場合は環境の初期化が必要です。  
 > 初期化方法は本書末尾の ｢Appendix 開発環境初期化｣を参照ください。  
 ## 開発ツールインストール												<!-- 01 -->    
@@ -51,45 +51,45 @@
 　3. Emulator(Pixel7)インストール  
 　4. Androidライセンス承認  
 ### Emulator起動														<!-- 01-05 -->  
-
+  
 [<img src="./assets/env/M_tech-documents.png" height="24"> 開発ツールインストール手順](./docs/01_Environment.md)  
   
 ## Mobileアプリケーション作成											<!-- 02 -->  
 　リハビリテーション用カウントダウンタイマー&カウンター[tmct_flt]を作成します。  
 ### Coding																<!-- 02-01 -->  
-### アプリケーションのインストール
-### デバッグ (Emulator)
-### 配布用アプリケーション(.apk)作成
-#### バージョン設定
-#### Release Build
-#### アプリケーションリネーム
+### アプリケーションのインストール  
+### デバッグ (Emulator)  
+### 配布用アプリケーション(.apk)作成  
+#### バージョン設定  
+#### Release Build  
+#### アプリケーションリネーム  
 ## デバッグ (Emulator)													<!-- 02-02 -->  
 　1. インストール  
 　2. バージョン設定  
 　3. 配布用アプリケーション(.apk)作成  
 　4. アプリケーションリネーム  
-
-
-
-[🔗Mobileアプリケーション作成手順](./docs/02_Development.md)  
+  
+  
+  
+[<img src="./assets/env/M_tech-documents.png" height="20"> Mobileアプリケーション作成手順](./docs/02_Development.md)  
   
 ## 実機検証																<!-- 03 -->  
 　スマートフォン[Xperia 10 IV]での検証を行います。  
-### USB接続でのインストール												<!-- 03-01 -->
+### USB接続でのインストール												<!-- 03-01 -->  
 　1. スマートフォン側USBデバッグ準備  
 　2. アプリケーションインストール & 実行  
-
-<!--
+  
+<!--  
 ### GitHubからインストール  
-　.apkダウンロード & インストール
--->
-
-### 検証																<!-- 03-02 -->
+　.apkダウンロード & インストール  
+-->  
+  
+### 検証																<!-- 03-02 -->  
 　検証作業  
-
+  
 [<img src="./assets/env/M_tech-documents.png" height="24"> 実機検証手順](./docs//03_Verification.md)  
-
-
+  
+  
 ## Appendix : 開発環境初期化												<!-- APP -->  
 　インストール済みの **Flutter** と **Android Studio**  及びその環境、生成物の削除を行います。  
 ### 現状確認															<!-- APP-01 -->  
@@ -109,3 +109,4 @@
 ### 完了確認															<!-- APP-04 -->  
   
 [<img src="./assets/env/M_tech-documents.png" height="24"> 開発環境初期化手順](./docs/APP_Initialize.md)  
+  

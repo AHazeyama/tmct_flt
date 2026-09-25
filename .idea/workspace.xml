@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e992b830-3d9d-444b-9fc9-697ee8664ea9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/02_Development.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Development.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03_Verification.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Verification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/APP_Initialize.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/APP_Initialize.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/M_legend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_legend.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/env/M_legend.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/env/M_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmct_flt_AndroidStudio.md" beforeDir="false" afterPath="$PROJECT_DIR$/tmct_flt_AndroidStudio.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JhKXji277URxtEbHzH4DSk8GUn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/atsus/bin/Git_dir/tmct_flt&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e992b830-3d9d-444b-9fc9-697ee8664ea9" name="Changes" comment="" />
+      <created>1790107901583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790107901583</updated>
+    </task>
+    <servers />
+  </component>
+</project>
