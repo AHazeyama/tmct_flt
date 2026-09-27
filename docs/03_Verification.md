@@ -78,7 +78,7 @@ flutter run -d device-ID
 　<img src="./assets/env/M_Android_logo0.png" height="12" >  
 |Initial|Installing...|Running|After execution|  
 |:---|:---|:---|:---|  
-| [<img src="./assets/prtsc/M_AD_home03.png" height="256">](./assets/prtsc/M_AD_home03.png)>|[<img src="./assets/prtsc/M_AD_home-install.png" height="256">](./assets/prtsc/M_AD_home-install.png)|[<img src="./assets/prtsc/M_AD_tmct.png" height="256">](./assets/prtsc/M_AD_tmct.png)|[<img src="./assets/prtsc/M_AD_home04.png" height="256">](./assets/prtsc/M_AD_home04.png)|  
+| [<img src="./assets/prtsc/M_AD_home03.png" height="256">](./assets/prtsc/M_AD_home03.png)|[<img src="./assets/prtsc/M_AD_home-install.png" height="256">](./assets/prtsc/M_AD_home-install.png)|[<img src="./assets/prtsc/M_AD_tmct.png" height="256">](./assets/prtsc/M_AD_tmct.png)|[<img src="./assets/prtsc/M_AD_home04.png" height="256">](./assets/prtsc/M_AD_home04.png)|  
   
 ## 検証											<!-- 03-03 -->  
 ### 操作手順  
