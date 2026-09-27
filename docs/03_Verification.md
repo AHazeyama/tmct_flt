@@ -40,8 +40,6 @@
 | スマートフォンとPCをUSB接続||  
 |<img src="./assets/prtsc/M_AD_home02.png" height="40">|確認|  
   
-> [!NOTE]  
-> <img src="./assets/env/M_tap.png" height="14"> : 画面タップ  
 ### アプリケーションインストール & 実行  
 #### PC側作業  
 <details>  
