@@ -82,17 +82,17 @@
 　SourceCodeを Android / iOS 共通とするためにFlutterを使用しています。  
   
 > [!note]  
-> Xpedia10 IV 及び AndroidStudio Emulator(Pixel7) にて動作検証を行っています。  
+> 動作検証は XPERIA 10IV 及び AndroidStudio Emulator(Pixel7) にて行っています。  
 >  
 > <img src="./assets/env/M_caution.png" height="14"> Notice  
 > iOSアプリのビルドと検証にはmacOSとXcodeが必要なため、実施できておりません。  
-> 今後、機材を用意できた時点でiOS側の検証を行う予定です。  <img src="./assets/env/M_execuse_jonesy08.png" height="96" align="top">  
+> 今後、機材を用意できた時点でiOS側の検証を行う予定です。  <img src="./assets/env/M_execuse_jonesy08.png" height="128" align="top">  
   
-## Download  
-　🔗 https://github.com/AHazeyama/public/releases/latest  
+## Download the Release 
+　[<img src="./assets/env/M_link.png" height="14"> Download Repository (GitHub)](https://github.com/AHazeyama/public/releases/latest)
   
 ## Development Tutorial  
-　🔗[tmct_flt_AndroidStudio](./tmct_flt_AndroidStudio.md)  
+　<img src="./assets/env/M_link.png" height="14"> [tmct_flt_AndroidStudio](./tmct_flt_AndroidStudio.md)  
   
 ## License  
 　TBD  
