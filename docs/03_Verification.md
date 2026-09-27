@@ -16,7 +16,7 @@
 >  
 > 縮小画像 (マウスカーソルが <img src="./assets/env/M_info.png" height="14"> に変化する画像) は <img src="./assets/env/M_click.png" height="14"> で拡大表示します。  
 >  
-> Source code / コマンド は <img src="./assets/env/M_copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でText表示します (表示されたTextの右上にある <img src="./assets/env/M_git-copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でコピー)。  
+> Source code / コマンド は <img src="./assets/env/M_copy.png" height="14"> 左の▶<img src="./assets/env/M_click.png" height="14"> でText表示します (表示されたTextの右上にある <img src="./assets/env/M_git-copy.png" height="14"> <img src="./assets/env/M_click.png" height="14"> でコピー)。  
 >  
 > <img src="./assets/env/M_infoG.png" height="14"> ブラウザを **Darkモード** にして頂けると、見やすくなります。  
 >  
@@ -80,7 +80,7 @@ flutter run -d device-ID
 |:---|:---|:---|:---|  
 | [<img src="./assets/prtsc/M_AD_home03.png" height="256">](./assets/prtsc/M_AD_home03.png)>|[<img src="./assets/prtsc/M_AD_home-install.png" height="256">](./assets/prtsc/M_AD_home-install.png)|[<img src="./assets/prtsc/M_AD_tmct.png" height="256">](./assets/prtsc/M_AD_tmct.png)|[<img src="./assets/prtsc/M_AD_home04.png" height="256">](./assets/prtsc/M_AD_home04.png)|  
   
-## 検証																	<!-- 03-03 -->  
+## 検証											<!-- 03-03 -->  
 ### 操作手順  
 1. Xperia 10 IVでtmct_fltを起動  
 2. タイマーを設定  
