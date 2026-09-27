@@ -8,7 +8,7 @@
   
 # 実機検証																<!-- 04 -->  
 　<img src="./assets/env/M_SP_XPERIA10IV.png" height="20">  
-　スマートフォン[Xperia 10 IV]での検証を行います。  
+　スマートフォン[XPERIA 10IV]での検証を行います。  
   
 > [!NOTE]  
 > 凡例  
