@@ -135,7 +135,7 @@ dart run flutter_launcher_icons
 > iOS環境を作成していない場合の **Warning** メッセージ  
 > 　[<img src="./assets/cmd/M_CMD_02-07_dart=run=flutter_luncher_icons-R-W.png" width="540">](./assets/cmd/M_CMD_02-07_dart=run=flutter_luncher_icons-R-W.png)  
 > 原因はiconファイルのフォルダ階層かファイル名の不一致。  
-> またはpubspec.yamlで"ios:**true**"になってる ⇒ **False**へ変更。  
+> またはpubspec.yamlで"ios:**true**"になってる ⇒ **false**へ変更。  
 > 　<img src="./assets/cmd/M_SRC_02-01_dart=run=flutter_luncher_icons=yaml.png">  
   
 <details>  
