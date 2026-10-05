@@ -205,7 +205,7 @@ Remove-Item -Recurse -Force "$env:LOCALAPPDATA\Android\Sdk"
 　[<img src="./assets/cmd/M_CMD_APP-02-01b_remove-item.png" width="540">](./assets/cmd/M_CMD_APP-02-01b_remove-item.png)  
 　　　　　　　　　　　<img src="./assets/env/M_allow-D.png" height="20">  
 　[<img src="./assets/cmd/M_CMD_APP-02-01c_remove-item.png" width="540">](./assets/cmd/M_CMD_APP-02-01c_remove-item.png)  
-　残環境 **：** $HOME\AppData以下はこの後削除します。  
+　残環境 **：** <img src="./assets/env/M_folder.png" height="14"> $HOME\AppData以下はこの後削除します。  
   
 ### $HOMEの環境 削除  
 <details>  
@@ -551,4 +551,4 @@ Remove-Item -Recurse -Force "$env:APPDATA\.dart-tool"
 </details>  
   
  　<img src="./assets/env/M_CMT_no-message.png">  
-#### 　　残DIRの削除で初期化完了  
+#### 　　残DIRの削除で初期化完了　　<img src="./assets/env/M_Jonesy11_Let-me-knou.png" height="128" align="top">
