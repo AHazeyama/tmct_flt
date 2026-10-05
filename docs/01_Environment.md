@@ -147,7 +147,8 @@ code --version
 　<img src="./assets/env/M_IDE_AndroidStudio.png" height="20">  
 　インストーラ入手  
 　　<img src="./assets/env/M_link.png" height="14"> [Android Studio](https://developer.android.com/studio?hl=ja)　※使用許諾が必要なため、リンク先の <img src="./assets/env/M_androidstudio-install.png" height="18"> <img src="./assets/env/M_click.png" height="14">
-　　<img src="./assets/env/M_androidstudio-installer0.png" height="24"> W<img src="./assets/env/M_click.png" height="14"> デフォルト設定でインストール  
+　　<img src="./assets/env/M_androidstudio-installer0.png" height="24"> W<img src="./assets/env/M_click.png" height="14">  
+　デフォルト設定でインストール  
 　　SDKインストール先 : <img src="./assets/env/M_folder.png" height="14"> $HOME\AppData\Local\Android\Sdk  
   
 ### プロジェクト作成  
